@@ -1,0 +1,8 @@
+3,Ordinador,20
+5,Teclat,12
+2,Vídeo-consola,20
+9,Telèfon,5
+7,Televisió,14
+11,Joystick,10
+12,Joc,2
+8,Monitor,34
